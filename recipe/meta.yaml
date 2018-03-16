@@ -1,6 +1,6 @@
 {% set name = "graphql-js" %}
-{% set version = "0.11.7" %}
-{% set sha256 = "bf3e699d74e80c189cb48136c8923847c587a956b8d238a0f3ecdfb30bf9b73f" %}
+{% set version = "0.13.2" %}
+{% set sha256 = "0859a667322665c9d941513634f9716d82865d5d49c161ca88be0ad83c543730" %}
 
 package:
   name: {{ name|lower }}
