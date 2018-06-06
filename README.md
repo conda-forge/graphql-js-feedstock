@@ -15,12 +15,15 @@ The JavaScript reference implementation for GraphQL, a query language for APIs c
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/graphql-js-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/graphql-js-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/graphql-js-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/graphql-js-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/graphql-js/badges/version.svg)](https://anaconda.org/conda-forge/graphql-js)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/graphql-js/badges/downloads.svg)](https://anaconda.org/conda-forge/graphql-js)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-graphql--js-green.svg)](https://anaconda.org/conda-forge/graphql-js) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/graphql-js.svg)](https://anaconda.org/conda-forge/graphql-js) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/graphql-js.svg)](https://anaconda.org/conda-forge/graphql-js) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/graphql-js.svg)](https://anaconda.org/conda-forge/graphql-js) |
 
 Installing graphql-js
 =====================
