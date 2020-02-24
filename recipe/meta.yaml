@@ -35,8 +35,3 @@ about:
     The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook. 
   doc_url: http://graphql.org/graphql-js/
   dev_url: https://github.com/graphql/graphql-js
-  
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
